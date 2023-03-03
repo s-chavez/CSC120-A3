@@ -1,0 +1,5 @@
+3/3/23 A3 Resubmission Notes:
+The program now allocates the canned responses.
+The transcript is now stored in an array.
+The program now prints the transcript.
+Attempted to fix the inconsistent indentation of bracketed sections using the code beautifier.
